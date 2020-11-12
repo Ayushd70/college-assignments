@@ -1,0 +1,4 @@
+ The following code  will print 252525 because default input data type is a string, it will print the string 3 times.
+
+ x=input(“Enter a number: ”)
+print(x*3)
