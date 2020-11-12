@@ -5,4 +5,4 @@ ai = float(input())
 print("Enter number of years")
 years = int(input())
 
-print("Total:", ((pa-ai)*years))
+print("Total:", ((pa - ai) * years))
