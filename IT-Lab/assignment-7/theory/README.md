@@ -7,7 +7,7 @@ a) Save a tuple. Print it. Delete it.
 (1, 2, 3)
 >>> del(tup)
 >>> print(tup)
-#tuple is immutable .so we can’t modify any element in it.
+Ans: tuple is immutable .so we can’t modify any element in it.
 ```
 
 ```
@@ -17,7 +17,7 @@ b) Save two tuples. Concatenate them. Print it without using loops.
 >>> new=tup+next
 >>> print(new)
 (1, 2, 3, 10, 20, 30)
-#we can concatenate tuple by using +operator(creates a new tuple)
+Ans: we can concatenate tuple by using +operator(creates a new tuple)
 ```
 
 ```
@@ -26,7 +26,7 @@ c.	Suppose a tuple contains one item. Now store the same item for five times wit
 >>> tup=tup*5
 >>> print(tup)
 (5, 5, 5, 5, 5)
-#we can use *operator to create a new tuple which has same values as 1st tuple repeated given times in it(in the order).
+Ans: we can use *operator to create a new tuple which has same values as 1st tuple repeated given times in it(in the order).
 ```
 
 ```
@@ -34,7 +34,7 @@ d) Save a tuple. Print ith to jth item without using loop.
 >>> tup=(1,2,3,10,20,30)
 >>> print(tup[2:4])
 (3, 10)
-#we can slice a tuple using slice operators([::]).like list,str. 
+Ans: we can slice a tuple using slice operators([::]).like list,str. 
 ```
 
 ```
@@ -43,7 +43,7 @@ e) Convert a list in a tuple.
 >>> new=list(tup)
 >>> print(new)
 [1, 2, 3]
-#we can convert a tuple in a list by passing the tuple in the constructor of list as an argument.
+Ans: can convert a tuple in a list by passing the tuple in the constructor of list as an argument.
 ```
 
 ```
@@ -55,12 +55,11 @@ f) Find maximum and minimum item in a tuple. Find the length of a tuple.
 1
 >>> len(tup)
 6
-#tuple has min,max,len operator overloaded. 
+Ans: tuple has min,max,len operator overloaded. 
 ```
 
 ```
-1)
-WRITE A PROGRAM TO REVERSE A TUPLE
+1) WRITE A PROGRAM TO REVERSE A TUPLE
 >>> x=("W3RESOURSE")
 >>> y=reversed(x)
 >>> print(tuple(y))
@@ -87,8 +86,7 @@ OUTPUT
 ```
 
 ```
-3)
-Write a Python program to find the index of an item of a tuple. Convert a string to a tuple. Check it for
+3) Write a Python program to find the index of an item of a tuple. Convert a string to a tuple. Check it for
 all possible parameters of index function. Check it for an item which is not present.
 tuplex = tuple("index tuple")
 print(tuplex)
@@ -102,8 +100,7 @@ index = tuplex.index("y")
 ```
 
 ```
-4)
-Write a program in Python to do slicing in all possible ways with all possible parameters, providing
+4) Write a program in Python to do slicing in all possible ways with all possible parameters, providing
 positive and negative values for step. Also, perform slicing from start and end both.
 
 tuplex = (2, 4, 3, 5, 4, 6, 7, 8, 6, 1)
