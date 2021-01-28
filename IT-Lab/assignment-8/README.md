@@ -1,6 +1,6 @@
-## THE ACTUAL QUESTIONS:
+# THE ACTUAL QUESTIONS:
 
-### Assignment-8
+## Assignment-8
 
 1) Write a program to get the maximum and minimum value in a dictionary.
 
@@ -21,6 +21,6 @@ meters to centimeters and the other that stores the reverse.
 8) Write a Python program that inverts a dictionary, i.e., it makes key of one dictionary value of
 another and vice versa.
 
-#### Questionnaires
+### Questionnaires
 
 1) What are the advantages of dictionary over list?

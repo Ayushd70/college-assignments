@@ -1,6 +1,7 @@
-## THE ACTUAL QUESTIONS:
+# THE ACTUAL QUESTIONS:
 
-### Assignment-5
+## Assignment-5
+
 a) Write a program to count the number of words, vowels, consonants and punctuations in a given sentence.
 
 b) Write a program to print all non Fibonacci numbers within a range.

@@ -1,6 +1,6 @@
-## THE ACTUAL QUESTIONS:
+# THE ACTUAL QUESTIONS:
 
-### Assignment-9
+## Assignment-9
 
 1) Create a list of strings. Write a Python program which creates another list from the first taking
 the first character from each word.

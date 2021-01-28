@@ -1,6 +1,6 @@
-## THE ACTUAL QUESTIONS:
+# THE ACTUAL QUESTIONS:
 
-### Assignment-3
+## Assignment-3
 
 1. Write a program to sum up to n numbers.
 

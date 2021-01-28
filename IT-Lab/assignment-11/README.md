@@ -1,6 +1,6 @@
-## THE ACTUAL QUESTIONS
+# THE ACTUAL QUESTIONS
 
-### Assignment-11
+## Assignment-11
 
 1. Check whether a given year is leap year or not. Provide a range of years and display how many leap years are there.
 

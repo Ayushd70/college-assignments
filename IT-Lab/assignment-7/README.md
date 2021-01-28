@@ -1,6 +1,6 @@
-## THE ACTUAL QUESTIONS:
+# THE ACTUAL QUESTIONS:
 
-### Assignment-7
+## Assignment-7
 
 1) Complete all the shell functions and programs given in the material. Write down your observations(1 line each).
 

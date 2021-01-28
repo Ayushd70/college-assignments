@@ -1,6 +1,6 @@
-## THE ACTUAL QUESTIONS
+# THE ACTUAL QUESTIONS
 
-### Assignment-10
+## Assignment-10
 
 1) Write a program in Python using function (recursive and non recursive) to generate Fibonacci series up to n th term. The n is provided as input and passed to the function.
 

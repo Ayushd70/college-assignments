@@ -1,6 +1,6 @@
-## THE ACTUAL QUESTIONS:
+# THE ACTUAL QUESTIONS:
 
-### Assignment-4
+## Assignment-4
 
 1. Write a program to check whether the string is palindrome or not.
 
@@ -8,8 +8,7 @@
 
 3. Write a Python program which takes a name as input and print the initials.
 
-
-#### Questionnaires:
+### Questionnaires:
 
 1. What are the advantages of using slice of strings?
 
