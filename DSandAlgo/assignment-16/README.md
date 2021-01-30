@@ -1,6 +1,6 @@
-## THE ACTUAL QUESTIONS:
+# THE ACTUAL QUESTIONS
 
-### Assignment-16
+## Assignment-16
 
 1. Write a program in C to evaluate the prefix expression.
 

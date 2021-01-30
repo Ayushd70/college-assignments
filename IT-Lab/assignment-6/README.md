@@ -1,4 +1,4 @@
-# THE ACTUAL QUESTIONS:
+# THE ACTUAL QUESTIONS
 
 ## View and Run on [Colab](https://colab.research.google.com/drive/1qa5AkZeyJjUcxpY6uIDh4TEFaL3izE3u?usp=sharing)
 
@@ -18,4 +18,4 @@
 Hint: table1 = [ [ 1, 2, 3 ], [ 4, 5, 6 ] ]
 ```
 
-6) Write a program in Python to store two lists and compare them
+6)Write a program in Python to store two lists and compare them

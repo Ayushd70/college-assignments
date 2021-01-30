@@ -1,4 +1,4 @@
-# THE ACTUAL QUESTIONS:
+# THE ACTUAL QUESTIONS
 
 ## Assignment-7
 

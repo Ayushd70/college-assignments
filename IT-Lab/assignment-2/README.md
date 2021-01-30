@@ -1,10 +1,10 @@
-# THE ACTUAL QUESTIONS:
+# THE ACTUAL QUESTIONS
 
 ## View and Run on [Colab](https://colab.research.google.com/drive/1QQ6C1Vaj0NiZFRxW4PxSt3i_OgRBtJA1?usp=sharing)
 
 ### Assignment-1
 
-1.) Write a program which takes two integers as input. Print whether the two numbers are equal, less than, or greater than the other.
+1) Write a program which takes two integers as input. Print whether the two numbers are equal, less than, or greater than the other.
 
 2) Write pay computation to give the employee 1.5 times the hourly rate for hours worked above 40 hours (Input: hours and rate).
 
@@ -20,11 +20,11 @@
 
 < 0.6 F
 
-4) Write a program which takes temperature as input and also input its type (Centigrade or Fahrenheit). Convert it to other format.
+4)Write a program which takes temperature as input and also input its type (Centigrade or Fahrenheit). Convert it to other format.
 
-5) Write a program which takes input of a number and check whether it is positive or negative.
+5)Write a program which takes input of a number and check whether it is positive or negative.
 
-6) Write a program which takes input of a number and check whether it is even or odd.
+6)Write a program which takes input of a number and check whether it is even or odd.
 
 7)Write a program which takes three numbers as input find maximum of three and minimum of the three.
 

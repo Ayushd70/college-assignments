@@ -1,6 +1,6 @@
 # THE ACTUAL QUESTIONS
 
-## Assignment-12
+## Assignment-13
 
 1) Write a file. Read the file and print its content. Read first two lines. Read first 5 characters. Read the file using loop.
 
@@ -8,7 +8,7 @@
 
 3) Check whether a file exists or not. Delete it.
 
-4) . Print the words written in the first line of a file. Access each word using a loop.
+4) Print the words written in the first line of a file. Access each word using a loop.
 
 5) Count the number of lines in a file.
 

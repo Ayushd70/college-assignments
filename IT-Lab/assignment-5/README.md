@@ -1,4 +1,4 @@
-# THE ACTUAL QUESTIONS:
+# THE ACTUAL QUESTIONS
 
 ## Assignment-5
 
@@ -13,5 +13,4 @@ x=input(“Enter a number: ”)
 print(x*3)
 ```
 
-d) Explain, with an example, how an equivalent of switch case be
-implemented in Python.
+d) Explain, with an example, how an equivalent of switch case be implemented in Python.

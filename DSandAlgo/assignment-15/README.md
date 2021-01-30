@@ -1,6 +1,6 @@
-## THE ACTUAL QUESTIONS:
+# THE ACTUAL QUESTIONS
 
-### Assignment-15
+## Assignment-15
 
 1. Write a program in C to evaluate postfix expression.
 
