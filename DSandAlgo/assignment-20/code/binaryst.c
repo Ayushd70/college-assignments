@@ -108,18 +108,18 @@ int main()
     int c = 0, data;
     do
     {
-        printf("\n1. Insert\n2. Delete\n3. Display(preorder)\n4. Display(inorder)\n5. Display(postorder)\n\n Enter: ");
+        printf("\n1. Insert\n2. Delete\n3. Display(preorder)\n4. Display(inorder)\n5. Display(postorder)\n6. Exit\n\n Enter: ");
         scanf("%d", &c);
 
         switch (c)
         {
         case 1:
-            printf("ENter a no. ");
+            printf("Enter a no. ");
             scanf("%d", &data);
             insert(&root, data);
             break;
         case 2:
-            printf("ENter a no. ");
+            printf("Enter a no. ");
             scanf("%d", &data);
             Tdelete(&root, data);
             break;
@@ -135,10 +135,11 @@ int main()
             printf("Postorder: ");
             printPostorder(root);
             break;
-        case 0:
+        case 6:
             exit(0);
         default:
             printf("Wrong input ");
+            break;
         }
 
     } while (1);
