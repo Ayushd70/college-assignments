@@ -45,7 +45,7 @@ int main()
     sort(a, n);
 
     if ((i = binary_search(a, data, 0, n - 1)) != 1)
-        printf("found %d", data);
+        printf("found %d ", data);
     else
-        printf("%d not found", data);
+        printf("%d not found ", data);
 }
