@@ -67,7 +67,7 @@ void main()
     }
   }*/
 
-    printf("Activities are ");
+    printf("Activities are:");
     printf("a[%d] ", a[0]);
     k = 0; //initialize with 1st element
     for (i = 0; i < n; i++)
@@ -80,3 +80,26 @@ void main()
     }
     getc;
 }
+
+/* Sample Inputs
+//Input-1
+4
+1 3
+0 1
+1 3
+3 4
+
+//Input-2
+11
+1 4
+3 5
+0 6
+5 7
+3 8
+5 9
+6 10
+8 11
+8 12
+2 13
+11 14
+*/
