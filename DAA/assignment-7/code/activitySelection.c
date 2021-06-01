@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <conio.h>
 
 void swap(int *x, int *y)
 {
@@ -79,5 +78,5 @@ void main()
             k = i;
         }
     }
-    getch();
+    getc;
 }
