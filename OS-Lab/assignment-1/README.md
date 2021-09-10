@@ -119,3 +119,18 @@ Prerequisites:
 ```
 ~ who -q
 ```
+
+## Questionaire
+
+1. When will rmdir xyz (assume xyz is directory) fail to work?
+
+```
+- A failure to remove a directory due to some other error, aside from it being empty.
+  And as regular users normally do not have enough permissions to modify /home , the rmdir gives a Permission denied error.
+```
+
+2. What does cd do when used without arguments?
+
+```
+- It changes the current working directory to the home directory of the user.
+```
