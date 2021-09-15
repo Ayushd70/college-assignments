@@ -11,16 +11,16 @@ class CompareNumbers {
         System.out.println("Enter the second number");
         b = in.nextInt();
 
-        System.out.println("Enter the second number");
+        System.out.println("Enter the third number");
         c = in.nextInt();
 
         if (a >= b && a >= c)
-            System.out.println(a + " is the largest Number");
+            System.out.println(a + " is the largest number");
 
         else if (b >= a && b >= c)
-            System.out.println(b + " is the largest Number");
+            System.out.println(b + " is the largest number");
 
         else
-            System.out.println(c + " is the largest Number");
+            System.out.println(c + " is the largest number");
     }
 }
