@@ -15,8 +15,8 @@ Prerequisites:
 1. Create a file named 'teachers' using vi editor. Type 20 lines in this file in a fastion as shown below:
 
 ```
-TOO1 | P.C | D.S | Kolkata
-TOO2 | K.M | O.S | Howrah
+TOO1 | P.C | D.S      | Kolkata
+TOO2 | K.M | O.S      | Howrah
 TOO3 | J.S | Graphics | Jadavpur
 
 ---
