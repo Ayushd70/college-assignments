@@ -1,6 +1,6 @@
 # THE ACTUAL QUESTIONS
 
-## Assignment-1
+## Assignment-2
 
 ### Login to UNIX system and perform the following:
 
@@ -147,4 +147,22 @@ q. Display the line no. in which the word 'Jadavpur' appears.
 
 ```
 ~ grep -n Jadavpur teachers
+```
+
+## Questionaire
+
+b. Explain the result of the following command ls l t | tail 1
+
+```
+- First ls l t command will sort the file names displayed in the order of last modification time then tail 1 will show the last line.
+
+So, In this case it will show the first file that was created and untouched.
+```
+
+m. Is it possible to sort the file using the following command? “ sort numfile ↵↵”. Where numfile containts the following number: (2, 10, 5, 27, 4). Explain the result. If not how canwe overcome?
+
+```
+- No, It is not possible to sort this file with this above command because this command is used for character sorting, so the result (10, 2, 27, 4, 5) will be based on character ascii value.
+
+To overcome this problem, we can use s ort n numfile ↵↵. By this command it takes numbers as an integer or we can numerical value. So the sorting can be done correctly.
 ```
