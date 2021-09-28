@@ -52,22 +52,13 @@ Mkfile.old
 dkms.conf
 
 # Prerequisites
-*.d
 
 # Compiled Object files
 *.slo
-*.lo
-*.o
-*.obj
 
 # Precompiled Headers
-*.gch
-*.pch
 
 # Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
 
 # Fortran module files
 *.mod
@@ -75,14 +66,8 @@ dkms.conf
 
 # Compiled Static libraries
 *.lai
-*.la
-*.a
-*.lib
 
 # Executables
-*.exe
-*.out
-*.app
 
 .vscode/*
 !.vscode/settings.json
@@ -94,15 +79,7 @@ dkms.conf
 # Local History for Visual Studio Code
 .history/
 
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-*.code-workspace
-
 # Local History for Visual Studio Code
-.history/
 
 # Compiled class file
 *.class
@@ -128,3 +105,4 @@ dkms.conf
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 !/.idea/
+college-assignments.iml
