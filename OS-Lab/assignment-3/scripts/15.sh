@@ -7,7 +7,7 @@ w=$(echo $str | wc -w)
 w=$(expr $w)
 wsp=0
 a=0
-sp=\` \`
+sp=\`\`
 n=1
 while [ $n -le $c ]; do
     ch=$(echo $str | cut -c $n)
@@ -15,7 +15,7 @@ while [ $n -le $c ]; do
         wsp=$(expr $wsp + 1)
     else
         case $ch in
-        [a-z] | [A-Z]) a=$(expr $a + 1) ;;
+        [[a-z]] | [[A-Z]]) a=$(expr $a + 1) ;;
         esac
     fi
     n=$(expr $n + 1)
